@@ -9,3 +9,4 @@ The first approach utilizes the [VADER](https://github.com/cjhutto/vaderSentimen
 ## 2. T5 Transformers Model Approach
 
 The second approach involves the use of the [Text-to-Text (T5)](https://huggingface.co/transformers/model_doc/t5.html) transformer model. We fine-tuned it on sentiment analysis task on Amazon Food comments. This approach leverages the power of transformer-based architectures for contextual understanding and captures more complex relationships within the data compared to the Bag-Of-Words.
+<img src="https://github.com/MayssaJaz/Sentiment-Analysis-Amazon-Food-Reviews/blob/main/images/T5.png"> 
