@@ -37,32 +37,41 @@
 }
 
 .positive {
-    background-color: #52c41a;
+    border-color: #062D03;
+    color: white;
+    background-color: #062D03;
     height: 50px;
 }
 
 .positive-inactive {
+    border-color: #7AE582;
     background-color: #7AE582;
     height: 50px;
 }
 
 .neutral {
-    background-color: #fadb14;
+    border-color: #8B8000;
+    color: white;
+    background-color: #8B8000;
     height: 50px;
 }
 
 .neutral-inactive {
+    border-color: #F1EB90;
     background-color: #F1EB90;
     height: 50px;
 }
 
 
 .negative {
-    background-color: #ff4d4f;
+    border-color: #800000;
+    color: white;
+    background-color: #800000;
     height: 50px;
 }
 
 .negative-inactive {
+    border-color: #ff7b7b;
     background-color: #ff7b7b;
     height: 50px;
 }

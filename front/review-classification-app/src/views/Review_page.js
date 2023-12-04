@@ -5,6 +5,7 @@ import './Review_page.css';
 import fetch_sentiment from '../apis/sentiment_api'
 
 const ReviewPage = () => {
+    const {TextArea} = Input;
     const [inputValue, setInputValue] = useState('');
     const [loading, setLoading] = useState(false);
     const [negative, setNegative] = useState('negative-inactive')
@@ -40,7 +41,7 @@ const ReviewPage = () => {
             <form onSubmit={handleSubmit} className="my-form">
                 <label className="my-form-label">
                     <div className='text-form-input'> Enter Text:</div>
-                    <Input
+                    <TextArea
                         className="my-form-input"
                         type="text"
                         value={inputValue}
