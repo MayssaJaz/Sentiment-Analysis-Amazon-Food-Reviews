@@ -1,0 +1,100 @@
+.my-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #e6f7ff, #99c2ff);
+}
+
+.text-form-input {
+    padding-bottom: 12px;
+    font-weight: 500;
+    font-size: medium;
+}
+
+.my-form {
+    max-width: 400px;
+    width: 80%;
+    padding: 24px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.button-row {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+    gap: 15px;
+}
+
+.my-form-title {
+    color: #1890ff;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.positive {
+    background-color: #52c41a;
+    height: 50px;
+}
+
+.positive-inactive {
+    background-color: #7AE582;
+    height: 50px;
+}
+
+.neutral {
+    background-color: #fadb14;
+    height: 50px;
+}
+
+.neutral-inactive {
+    background-color: #F1EB90;
+    height: 50px;
+}
+
+
+.negative {
+    background-color: #ff4d4f;
+    height: 50px;
+}
+
+.negative-inactive {
+    background-color: #ff7b7b;
+    height: 50px;
+}
+
+
+.my-form-label {
+    display: block;
+    margin-bottom: 16px;
+    font-size: 16px;
+    color: #333;
+}
+
+.my-form-input {
+    width: 100%;
+    height: 48px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.my-form-button {
+    margin-top: 4px;
+    height: 35px;
+    width: 120px;
+    border-radius: 8px;
+    background-color: #1890ff;
+}
+
+.my-form-button:hover {
+    background-color: #40a9ff;
+}
+
+p {
+    margin-top: -10px;
+    font-size: medium;
+}
