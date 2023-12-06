@@ -40,13 +40,14 @@ This project integrates the fine-tuned T5 (Text-To-Text Transfer Transformer) mo
    Open your web browser and go to http://localhost:3000 to access the ReactJS frontend.
 
 ### 2. Results:
-1. **Positive Sentiment:**
- <img src="https://github.com/MayssaJaz/Sentiment-Analysis-Amazon-Food-Reviews/blob/main/images/positive_result.jpeg">
-2. **Negative Sentiment:**
- <img src="https://github.com/MayssaJaz/Sentiment-Analysis-Amazon-Food-Reviews/blob/main/images/negative_result.jpeg">
-3. **Neutral Sentiment:**
- <img src="https://github.com/MayssaJaz/Sentiment-Analysis-Amazon-Food-Reviews/blob/main/images/neutral_result.jpeg">
 
+#### 1. Positive Sentiment:
+![Positive Result](https://github.com/MayssaJaz/Sentiment-Analysis-Amazon-Food-Reviews/blob/main/images/positive_result.jpeg)
 
+#### 2. Negative Sentiment:
+![Negative Result](https://github.com/MayssaJaz/Sentiment-Analysis-Amazon-Food-Reviews/blob/main/images/negative_result.jpeg)
+
+#### 3. Neutral Sentiment:
+![Neutral Result](https://github.com/MayssaJaz/Sentiment-Analysis-Amazon-Food-Reviews/blob/main/images/neutral_result.jpeg)
 
 
