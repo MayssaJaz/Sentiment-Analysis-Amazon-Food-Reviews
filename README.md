@@ -42,9 +42,9 @@ This project integrates the fine-tuned T5 (Text-To-Text Transfer Transformer) mo
 ### 2. Results:
 1. **Positive Sentiment:**
  <img src="https://github.com/MayssaJaz/Sentiment-Analysis-Amazon-Food-Reviews/blob/main/images/positive_result.jpeg">
-3. **Negative Sentiment:**
+2. **Negative Sentiment:**
  <img src="https://github.com/MayssaJaz/Sentiment-Analysis-Amazon-Food-Reviews/blob/main/images/negative_result.jpeg">
-5. **Neutral Sentiment:**
+3. **Neutral Sentiment:**
  <img src="https://github.com/MayssaJaz/Sentiment-Analysis-Amazon-Food-Reviews/blob/main/images/neutral_result.jpeg">
 
 
